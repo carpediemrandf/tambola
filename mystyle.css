@@ -1,0 +1,25 @@
+.tambola {
+    font-family: sans-serif;
+    background-color: rgb(250, 250, 228);
+}
+#header{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 2em ;
+    padding: .7em;
+}
+#lastdiv{
+    text-align: center;
+    align-content: center;
+}
+
+#listdiv li{
+    display: inline;
+    }
+
+#button{
+    margin: 2em;
+    padding: 1.5em;
+    font-size: 2em;
+}
